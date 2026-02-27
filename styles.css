@@ -1,0 +1,190 @@
+.page-1 {
+    height: 600px;
+    background-color: rgb(4, 7, 51);
+} 
+
+.header {
+    display: flex;
+    height: 80px;
+    background-color: rgb(4, 7, 51);
+    justify-content: space-between;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1100px;
+    margin: 10px auto;
+}
+.link, .logo {
+    border: none;
+    padding: 5px 10px;
+    color: white;
+
+}
+.head, .logo {
+    display: flex;
+    gap: 10px;
+}
+.page-1-2 {
+    background-color: rgb(4, 7, 51);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    margin: none;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+.sentence-1 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+button {
+    background-color: rgb(13, 13, 139);
+    border-radius: 4px;
+    border: 2px solid white;
+    color: white;
+    height: 30px;
+    width: 80px;
+}
+.text-1, .image-1 {
+    height: 300px;
+    width: 500px;
+    margin: 60px;
+}
+.image-1-1 {
+    height: 300px;
+    width: 500px;
+}
+.page-2 {
+    height: 500px;
+    background-color: white;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: none;
+    align-items: center;
+}
+.page-2-2 {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+
+}
+.box {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    border: 4px solid blue;
+}
+.image-1-2 {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+.box-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    margin-top: 10px;
+}
+.sentence-2 {
+    height: 80px;
+    width: 700px;
+    margin: 30px auto;
+    font-size: larger;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+}
+strong {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.page-3 {
+    height: 400px;
+    background-color: rgb(190, 190, 190);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.sentence-3 {
+    height: 250px;
+    width: 1000px;
+    margin: 50px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 10;
+}
+.sentence-4 {
+    height: 100px;
+    width: 1000px;
+    margin: 0px, auto;
+    font-weight: bolder;
+    text-align: right;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 350px;
+}
+.page-4 {
+    height: 350px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-2 {
+    height: 150px;
+    width: 1000px;
+    margin: 40px auto;
+    background-color: rgb(60, 76, 216);
+    color: white;
+    display: flex;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.text-2 {
+    height: 100px;
+    width: 600px;
+    margin: 35px;
+}
+.button-2 {
+    width: 200px;
+    height: 100px;
+    margin: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-3 {
+    height: 30px;
+    width: 80px;
+    border: 0.5px solid white;
+    color: white;
+    margin: 45px auto;
+    background-color: rgb(60, 76, 216);
+    border-radius: 4px;
+}
+.sentence-5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+footer {
+    background-color: rgb(4, 7, 51);
+    text-align: center;
+    color: white;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.end {
+    height: 40px;
+    width: 500px;
+    margin: 5px auto;
+}
